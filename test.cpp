@@ -5,6 +5,7 @@ int main(){
     int a,b=6;
     cin>>a;
    for (int i=1;i<5;i++){
-    cout<<++a<<"\n"<<b;
+    cout<<++a<<"\t"<<b;
+    cout<<endl;
 }
  }
